@@ -1,0 +1,5 @@
+ansible
+paramiko
+PyYAML
+jinja2
+httplib2
